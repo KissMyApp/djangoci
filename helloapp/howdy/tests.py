@@ -1,5 +1,5 @@
 import unittest
-from howdy.apps import Math
+# from howdy.apps import Math
 from django.test import TestCase
 
 # Create your tests here.
